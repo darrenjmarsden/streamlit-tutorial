@@ -7,7 +7,7 @@ st.header('st.write')
 
 # Example 1
 
-st.write('Hello, *World!* :sunglasses:')
+st.write('Hello, Hello, Hello, *World!* :sunglasses:')
 
 # Example 2
 
